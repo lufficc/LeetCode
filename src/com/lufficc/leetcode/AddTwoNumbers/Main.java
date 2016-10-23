@@ -1,4 +1,4 @@
-package com.lufficc.addtwonumbers;
+package com.lufficc.leetcode.AddTwoNumbers;
 
 /**
  * Created by lufficc on 2016/10/23.

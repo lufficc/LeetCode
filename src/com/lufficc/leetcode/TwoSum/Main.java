@@ -1,4 +1,4 @@
-package com.lufficc.leetcode.twosum;
+package com.lufficc.leetcode.TwoSum;
 
 /**
  * Created by lufficc on 2016/10/23.
