@@ -9,6 +9,10 @@ public class Main {
         System.out.println(new Main().longestPalindrome("aasbaa"));
     }
 
+    /**
+     * Given a string S, find the longest palindromic substring in S.
+     * You may assume that the maximum length of S is 1000, and there exists one unique longest palindromic substring.
+     */
     public String longestPalindrome(String s) {
         if (s == null || s.isEmpty() || s.length() == 1)
             return s;
